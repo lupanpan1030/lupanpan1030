@@ -21,11 +21,6 @@ I build local-first software where AI agents, data, and product workflows stay v
 [`IdeaSenseAI`](https://www.ideasenseai.com) - structured startup idea evaluation and DVF scoring.  
 [`Ethan Portfolio`](https://www.ethanchenlu.com) - bilingual portfolio and case-study site.
 
-**Other pinned work**
-
-[`airline-revenue-analytics`](https://github.com/lupanpan1030/airline-revenue-analytics) - airline booking revenue prediction pipeline.  
-[`Desktop Algorithm Training Platform`](https://github.com/lupanpan1030/Desktop-Algorithm-Training-Platform----UoA-COMPSCI-732-group-project) - local-first desktop app for offline algorithm training.
-
 **Stack**
 
 `TypeScript` `React` `Next.js` `Electron` `Node.js` `Python` `FastAPI` `PostgreSQL` `SQLite` `AI Agents`
