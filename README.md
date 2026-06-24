@@ -1,50 +1,70 @@
-<h1 align="center">Ethan C. Lu</h1>
+<div align="center">
 
-<h3 align="center">
-Healthcare IT | AI Workflow Systems | Data Integration | Full-stack and Desktop Apps
-</h3>
+# Ethan C. Lu
 
-<p align="center">
-  <a href="https://ethanchenlu.com">Portfolio</a> |
-  <a href="https://github.com/lupanpan1030?tab=repositories">Projects</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000&color=F0883E&center=true&vCenter=true&repeat=false&width=720&lines=Healthcare+IT+%7C+AI+Workflow+Systems;Data+Integration+%7C+Local-first+Apps"
+  alt="Healthcare IT | AI Workflow Systems | Data Integration | Local-first Apps"
+/>
+
+<p>
+  <a href="https://ethanchenlu.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/lupanpan1030?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
 </p>
 
----
+</div>
 
-### About me
+```txt
+I build local-first software where AI agents, data, and product workflows stay visible, structured, and auditable.
+```
 
-I am a Master of Information Technology student at the University of Auckland with a background in healthcare IT, hospital information systems, data analysis, and software development.
+## Current Focus
 
-My current work focuses on building practical software systems around:
+- Building **Locus**, a local-first desktop AI workbench for coding agents, MCP tools, git workflows, and local job automation.
+- Designing **AI workflow products** that make decisions, evidence, and user approval boundaries explicit.
+- Applying a healthcare IT background to data integration, operational systems, and practical full-stack tools.
 
-- AI workflow systems and coding agents
-- Healthcare IT and operational data integration
-- Local-first desktop applications
-- Full-stack products with structured data and clear workflow ownership
-- Machine learning and analytics pipelines
+## Selected Systems
 
----
+**Locus**  
+Local-first desktop AI workbench for Claude Code, Codex, provider-backed agents, MCP tools, terminal, git, worktrees, and local jobs.
 
-### Selected work
+**IdeaSenseAI**  
+Structured AI assistant for startup idea evaluation, DVF scoring, staged conversation, and report generation.
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [Locus](https://github.com/lupanpan1030/agent-code-for-me) | Local-first desktop AI workbench for Claude Code, Codex, provider-backed agents, MCP tools, terminal, git, worktrees, and local jobs. | TypeScript, React, Electron, Bun, SQLite |
-| [Ethan Portfolio](https://github.com/lupanpan1030/ethan_portfolio_2025) | Bilingual portfolio and case-study site for healthcare IT, AI workflow projects, and full-stack systems. | Next.js, React, TypeScript, Tailwind CSS |
-| IdeaSenseAI | AI startup idea evaluation assistant using structured conversation, DVF scoring, and report generation. | Next.js, FastAPI, PostgreSQL, Python |
-| Career Application Kit | Local-first workstation for job leads, application materials, workflow proposals, and outcome learning. | Electron, React, Node.js, SQLite |
-| Aletheia Archive | Static performance archive site with media delivery and deployment workflow. | Next.js, TypeScript, Tailwind CSS, Cloudflare Stream |
+**Career Application Kit**  
+Local-first workstation for job leads, application materials, workflow proposals, and outcome learning.
 
-Some project repositories are private while they are being prepared for public release. The public repositories above show the current direction and engineering style.
-
----
-
-### Technical areas
-
-`TypeScript` | `React` | `Next.js` | `Electron` | `Node.js` | `Python` | `FastAPI` | `SQL` | `SQLite` | `PostgreSQL` | `Prisma` | `SQLAlchemy` | `Machine Learning` | `AI Agents` | `MCP` | `GitHub Actions`
-
----
+## Public Work
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lupanpan1030&show_icons=true&theme=transparent&hide_border=true" />
+  <a href="https://github.com/lupanpan1030/agent-code-for-me">
+    <img height="138" src="https://github-readme-stats.vercel.app/api/pin/?username=lupanpan1030&repo=agent-code-for-me&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F0883E" alt="Locus repository" />
+  </a>
+  <a href="https://github.com/lupanpan1030/ethan_portfolio_2025">
+    <img height="138" src="https://github-readme-stats.vercel.app/api/pin/?username=lupanpan1030&repo=ethan_portfolio_2025&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F0883E" alt="Portfolio repository" />
+  </a>
+</p>
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=58A6FF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=58A6FF" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Electron-111827?style=flat-square&logo=electron&logoColor=58A6FF" alt="Electron" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=3FB950" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=F0883E" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=3FB950" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=58A6FF" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+</p>
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=lupanpan1030&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F0883E" alt="GitHub stats" />
 </p>
