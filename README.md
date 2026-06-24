@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-card.svg" alt="Ethan Chen Lu - local-first AI systems, healthcare IT, data workflows, and agent workbenches" width="900" />
+  <img src="./assets/profile-card-v2.svg" alt="Ethan Chen Lu - local-first AI systems, healthcare IT, data workflows, and agent workbenches" width="900" />
 </p>
 
 <p align="center">
