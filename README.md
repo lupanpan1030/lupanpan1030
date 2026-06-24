@@ -1,6 +1,8 @@
+<h1 align="center">Ethan Chen Lu</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=700&color=F7931A&center=true&vCenter=true&multiline=true&width=680&height=92&lines=Ethan+Chen+Lu;Healthcare+IT+%7C+AI+Workflow+Systems;Local-first+tools+for+agents+and+data" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=32&lines=Healthcare+IT+%C2%B7+AI+Workflow+Systems+%C2%B7+Data+Integration;Local-first+tools+for+agents%2C+workflows%2C+and+data" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,24 +30,13 @@ Drop me an email at: [ethanclu.nz@gmail.com](mailto:ethanclu.nz@gmail.com)
 
 ### Public Work
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/lupanpan1030/agent-code-for-me"><strong>agent-code-for-me</strong></a>
-      <br />
-      Orchestration layer for coding agents, including Claude Code and Codex.
-      <br /><br />
-      <sub>TypeScript &middot; local-first AI workbench &middot; 2 stars &middot; 1 fork</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/lupanpan1030/ethan_portfolio_2025"><strong>ethan_portfolio_2025</strong></a>
-      <br />
-      Portfolio and case-study site for healthcare IT, AI workflow, and full-stack systems.
-      <br /><br />
-      <sub>TypeScript &middot; portfolio &middot; case studies</sub>
-    </td>
-  </tr>
-</table>
+[**Locus**](https://github.com/lupanpan1030/agent-code-for-me)  
+Local-first AI workbench for coding agents, MCP tools, git/worktree flows, terminal work, and local job automation.  
+<sub>TypeScript &middot; Electron &middot; SQLite &middot; 2 stars &middot; 1 fork</sub>
+
+[**Ethan Portfolio**](https://github.com/lupanpan1030/ethan_portfolio_2025)  
+Portfolio and case-study site for healthcare IT, AI workflow products, and full-stack systems.  
+<sub>Next.js &middot; TypeScript &middot; case studies</sub>
 
 ### Stack
 
