@@ -20,7 +20,7 @@
 
 ### Welcome aboard
 
-* Building [Locus](https://github.com/lupanpan1030/agent-code-for-me), a local-first AI workbench for coding agents, MCP tools, git/worktree flows, terminal work, and local job automation.
+* Building [Locus / agent-code-for-me](https://github.com/lupanpan1030/agent-code-for-me), a local-first AI coding-agent workbench for MCP tools, git/worktree flows, terminal work, and local job automation.
 
 * Working across healthcare IT, data integration, and practical full-stack systems.
 
@@ -30,13 +30,13 @@ Drop me an email at: [ethanclu.nz@gmail.com](mailto:ethanclu.nz@gmail.com)
 
 ### Public Work
 
-[**Locus**](https://github.com/lupanpan1030/agent-code-for-me)  
-Local-first AI workbench for coding agents, MCP tools, git/worktree flows, terminal work, and local job automation.  
+[**Locus / agent-code-for-me**](https://github.com/lupanpan1030/agent-code-for-me)  
+Local-first AI coding-agent workbench for MCP tools, git/worktree flows, terminal work, and local job automation.  
 <sub>TypeScript &middot; Electron &middot; SQLite &middot; 2 stars &middot; 1 fork</sub>
 
-[**Ethan Portfolio**](https://github.com/lupanpan1030/ethan_portfolio_2025)  
-Portfolio and case-study site for healthcare IT, AI workflow products, and full-stack systems.  
-<sub>Next.js &middot; TypeScript &middot; case studies</sub>
+[**IdeaSense AI**](https://www.ideasenseai.com)  
+Public product site for an AI feasibility-validation workspace that helps early-stage founders pressure-test ideas across desirability, viability, and feasibility.  
+<sub>AI product &middot; startup validation &middot; public website</sub>
 
 ### Stack
 
