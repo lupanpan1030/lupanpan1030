@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ethanclu.nz@gmail.com">
+  <a href="mailto:ethan.clu.nz@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ethan-chen-lu/">
@@ -26,7 +26,7 @@
 
 * Open to roles and collaborations around AI workflow products and operational software.
 
-Drop me an email at: [ethanclu.nz@gmail.com](mailto:ethanclu.nz@gmail.com)
+Drop me an email at: [ethan.clu.nz@gmail.com](mailto:ethan.clu.nz@gmail.com)
 
 ### Public Work
 
