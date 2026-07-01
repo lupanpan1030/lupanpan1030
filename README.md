@@ -30,17 +30,19 @@ Drop me an email at: [ethan.clu.nz@gmail.com](mailto:ethan.clu.nz@gmail.com)
 
 ### Public Work
 
-[**Locus / agent-code-for-me**](https://github.com/lupanpan1030/agent-code-for-me)  
-Local-first AI coding-agent workbench for MCP tools, git/worktree flows, terminal work, and local job automation.  
-<sub>TypeScript &middot; Electron &middot; SQLite</sub>
+[**Locus / agent-code-for-me**](https://github.com/lupanpan1030/agent-code-for-me)<br>
+Local-first AI coding-agent workbench for MCP tools, git/worktree flows, terminal work, and local job automation.<br>
+<sub>TypeScript &middot; Electron &middot; SQLite &middot; local-first agents</sub>
 
-[**IdeaSense AI**](https://www.ideasenseai.com) &middot; [case study](https://github.com/lupanpan1030/ideasense-ai-public)  
-AI feasibility-validation workspace that helps early-stage founders pressure-test ideas across desirability, viability, and feasibility.  
-<sub>Next.js &middot; FastAPI &middot; PostgreSQL</sub>
+[**IdeaSense AI**](https://www.ideasenseai.com) &middot; [public case study](https://github.com/lupanpan1030/ideasense-ai-public)<br>
+AI feasibility-validation workspace for pressure-testing early-stage ideas across desirability, viability, and feasibility.<br>
+<sub>Next.js &middot; FastAPI &middot; PostgreSQL &middot; public-safe case study</sub>
 
-[**Live Resume**](https://github.com/lupanpan1030/live-resume)  
-A single-page Next.js resume site you edit in the browser and deploy to Vercel in one click (or self-host with Docker).  
-<sub>Next.js &middot; TypeScript &middot; Tailwind CSS</sub>
+[**Live Resume**](https://github.com/lupanpan1030/live-resume)<br>
+Single-page Next.js resume template with login-gated in-page editing, one-click Vercel deployment, and a Docker self-hosting path.<br>
+<sub>TypeScript &middot; Next.js &middot; resume template &middot; public template</sub>
+
+<sub>Focused project slices are pinned below, including the local code judge, LeetCode-CN importer, and airline revenue analytics pipeline.</sub>
 
 ### Stack
 
