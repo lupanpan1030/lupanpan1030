@@ -32,11 +32,15 @@ Drop me an email at: [ethan.clu.nz@gmail.com](mailto:ethan.clu.nz@gmail.com)
 
 [**Locus / agent-code-for-me**](https://github.com/lupanpan1030/agent-code-for-me)  
 Local-first AI coding-agent workbench for MCP tools, git/worktree flows, terminal work, and local job automation.  
-<sub>TypeScript &middot; Electron &middot; SQLite &middot; 2 stars &middot; 1 fork</sub>
+<sub>TypeScript &middot; Electron &middot; SQLite</sub>
 
-[**IdeaSense AI**](https://www.ideasenseai.com)  
-Public product site for an AI feasibility-validation workspace that helps early-stage founders pressure-test ideas across desirability, viability, and feasibility.  
-<sub>AI product &middot; startup validation &middot; public website</sub>
+[**IdeaSense AI**](https://www.ideasenseai.com) &middot; [case study](https://github.com/lupanpan1030/ideasense-ai-public)  
+AI feasibility-validation workspace that helps early-stage founders pressure-test ideas across desirability, viability, and feasibility.  
+<sub>Next.js &middot; FastAPI &middot; PostgreSQL</sub>
+
+[**Live Resume**](https://github.com/lupanpan1030/live-resume)  
+A single-page Next.js resume site you edit in the browser and deploy to Vercel in one click (or self-host with Docker).  
+<sub>Next.js &middot; TypeScript &middot; Tailwind CSS</sub>
 
 ### Stack
 
